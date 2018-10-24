@@ -1,0 +1,9 @@
+[package]
+name = "libssh-scan"
+version = "0.1.0"
+authors = ["Ivan Acosta-Rubio <ivan@softwarecriollo.com>"]
+
+[dependencies]
+
+ssh2 = "0.3"
+clap = "2.26.0"
